@@ -1,11 +1,10 @@
-[
-    {
-        "question": "What temperature does water boil at?",
-        "optionA": "50 degrees Celcius",
-        "optionB": "25 degrees Celcius",
-        "optionC": "100 degrees Celcius",
-        "optionD": "150 degrees Celcius",
-        "answer": "100 degrees Celcius"
+[{
+        "question": "Koja od ponuđenih nije domaća životinja?",
+        "optionA": "Krava",
+        "optionB": "Koza",
+        "optionC": "Slon",
+        "optionD": "Ovca",
+        "answer": "Slon"
     },
 
     {
@@ -102,7 +101,7 @@
         "question": "What’s the capital of Ethiopia?",
         "optionA": "Cape Town",
         "optionB": "San Francisco",
-        "optionC": "Abuja",
+        "optionC": "Addis Ababa",
         "optionD": "Syndey",
         "answer": "Addis Ababa"
     },

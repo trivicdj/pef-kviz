@@ -4,44 +4,36 @@
     width: 80%;
     margin: $lg auto 0 auto;
     padding: $sm $md;
-
     h2 {
         text-align: center;
         font-weight: lighter;
     }
-
     .lifeline-container {
         display: flex;
         justify-content: space-between;
     }
-
     .lifeline {
         position: relative;
         top: -3px;
     }
-
     .lifeline-icon {
         color: $green;
         cursor: pointer;
     }
-
     .lifeline-icon:hover {
         background: none;
         color: darken($orange, 10%);
     }
-
     h5 {
         font-size: 1.2rem;
         margin-bottom: lg;
         line-height: 1.5;
         text-align: center;
     }
-
     .options-container {
         display: inline-block;
         width: 50%;
     }
-
     .option {
         background-color: $blue;
         border-radius: $button-radius;
@@ -53,7 +45,6 @@
         text-align: center;
         width: 90%;
     }
-
     .option:hover {
         background-color: darken($blue, 20%);
     }
@@ -104,4 +95,10 @@
 
 .button-container button:last-child:hover {
     background-color: darken($red, 10%);
+}
+
+.question-ctn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
